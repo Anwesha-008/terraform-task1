@@ -7,7 +7,7 @@ const RECIPES = [
     category: 'Cookies',
     time: 30,
     difficulty: 'Easy',
-    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fjessiebakestreats.com%2Fclassic-chocolate-chip-cookies%2F&psig=AOvVaw0nefjHMITnBos_0DXL3WDp&ust=1753471069488000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiPoYCb1o4DFQAAAAAdAAAAABAV',
+    image: 'https://images.unsplash.com/photo-1600891963920-b8e6f822389b?q=80&w=1200&auto=format&fit=crop',
     ingredients: [
       '2 1/4 cups all-purpose flour',
       '1 tsp baking soda',
@@ -53,7 +53,7 @@ const RECIPES = [
     category: 'Cakes',
     time: 75,
     difficulty: 'Easy',
-    image: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fsaltedmint.com%2Fmary-berrys-lemon-drizzle-cake%2F&psig=AOvVaw2Nk725Azsnnih1wt5DUWd1&ust=1753471245451000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKipu82b1o4DFQAAAAAdAAAAABAE',
+    image: 'https://images.unsplash.com/photo-1605478034040-04f1e6c0c4e6?q=80&w=1200&auto=format&fit=crop',
     ingredients: [
       '225g unsalted butter',
       '225g caster sugar',
