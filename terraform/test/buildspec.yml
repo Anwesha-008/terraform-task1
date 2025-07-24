@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      golang: 1.21
+  build:
+    commands:
+      - cd terraform/test
+      - go test -v terratest_test.go
